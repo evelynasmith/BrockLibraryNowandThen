@@ -11,3 +11,4 @@ permalink: /about.html
 
 # About The Gallery
 Brock Library Now and Then is our way of celebrating Brock University's six decades. Take a walk around the James A. Gibson Library and the Map, Data, GIS Library and view photos of students and spaces over the years.
+The majority of these images are from the University Photo Collection held in the Archives and Special Collections.  
